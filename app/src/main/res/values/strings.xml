@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OpenShadowApp</string>
+    <string name="btn_find_me">Find me</string>
+    <string name="location_reason">The location is needed to find information about your current suroundings</string>
+
+    <string-array name="fragment_titles">
+        <item>Popular</item>
+        <item>Profile</item>
+        <item>Search</item>
+    </string-array>
+
+</resources>
